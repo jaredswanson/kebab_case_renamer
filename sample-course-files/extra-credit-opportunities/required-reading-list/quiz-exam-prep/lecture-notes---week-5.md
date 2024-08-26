@@ -1,1 +1,0 @@
-This is a sample file: Lecture Notes - Week 5.md

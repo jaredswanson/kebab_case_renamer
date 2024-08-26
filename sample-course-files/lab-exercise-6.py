@@ -1,1 +1,0 @@
-This is a sample file: LAB_EXERCISE_6.py
